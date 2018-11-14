@@ -1,0 +1,10 @@
+C:\Users\Basavaraj\source\repos\calci\calci\bin\Debug\calci.exe.config
+C:\Users\Basavaraj\source\repos\calci\calci\bin\Debug\calci.exe
+C:\Users\Basavaraj\source\repos\calci\calci\bin\Debug\calci.pdb
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.csprojAssemblyReference.cache
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.Form1.resources
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.Properties.Resources.resources
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.csproj.GenerateResource.cache
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.csproj.CoreCompileInputs.cache
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.exe
+C:\Users\Basavaraj\source\repos\calci\calci\obj\Debug\calci.pdb

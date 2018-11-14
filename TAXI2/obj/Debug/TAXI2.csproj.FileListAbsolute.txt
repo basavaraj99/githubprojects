@@ -1,0 +1,10 @@
+C:\Users\Basavaraj\source\repos\TAXI2\bin\Debug\TAXI2.exe.config
+C:\Users\Basavaraj\source\repos\TAXI2\bin\Debug\TAXI2.exe
+C:\Users\Basavaraj\source\repos\TAXI2\bin\Debug\TAXI2.pdb
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.csprojAssemblyReference.cache
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.Form1.resources
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.Properties.Resources.resources
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.csproj.GenerateResource.cache
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.csproj.CoreCompileInputs.cache
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.exe
+C:\Users\Basavaraj\source\repos\TAXI2\obj\Debug\TAXI2.pdb
